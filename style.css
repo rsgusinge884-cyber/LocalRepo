@@ -1,3 +1,5 @@
 h1{
    background-color: aquamarine;
+   border-color: blue;
+   border-radius: 40%;
 }
